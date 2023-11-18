@@ -14,7 +14,11 @@
     position: relative;
     overflow: hidden;
 }
-
+.bar{
+    display: block;
+    color: #ddd5d4;
+    
+    }
 
 .header-2 {
     font-size: 30px;
