@@ -1,0 +1,72 @@
+/* Media Query  */
+
+
+/* responsive */
+/* // Large devices (desktops, 992px and up) */
+
+@media (max-width: 992px) {
+    /* container media query starts from here */
+}
+/*  Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+}
+@media (max-width: 576px) {
+    /* container-1 media query starts from here */
+   body{
+    width: 100%;
+   } 
+   .meal {
+    font-size: 72px;
+    letter-spacing: 1px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Open Sans";
+}
+.img1-content {
+    width: 60%;
+
+}
+.img-6{
+    width: 98%;
+}
+.duis {
+    width: 426px;
+}
+.read{
+    margin-left: 49%;
+}
+    /* container-2 media query starts from here */
+    .food-img3 {
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        align-items: center;
+    }
+    /* container-3 media query starts from here */
+
+    .container-3 {
+        display: flex;
+        margin-top: 100px;
+        flex-direction: column;
+    }
+    .imgo{
+        width: 90%;
+        margin-left: 5%;
+ }
+ .bowl-content {
+    padding: 30px;
+    text-align: center;
+}
+.para {
+    width: 476px;
+    /* height: 189px; */
+    text-align: center;
+}
+/* .para-re{
+    width: 576px;
+    height: 289px;
+
+} */
+
+    
+}
