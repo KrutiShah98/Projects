@@ -117,13 +117,14 @@ section {
 
 .para {
     width: 576px;
-    height: 289px;
+    /* height: 289px; */
     font-size: 21px;
     letter-spacing: 0px;
     line-height: 33px;
     color: #1a1616;
     font-weight: 400;
     font-family: "Open Sans";
+
 }
 /* .para-re{
     width: 576px;
@@ -159,8 +160,6 @@ section {
     font-weight: 400;
     font-family: "Open Sans";
     text-align: center;
-
-
 }
 
 .coffee-menu {
@@ -376,11 +375,12 @@ height: 54px;
 background-color: #f2cd5d;
 }
 footer{
-    /* width: 1440px; */
+    width: 1440px;
 height: 323px;
 background-color: #eb7f4e;
 display: flex;
 overflow-y: hidden;
+
 }
 .fl{
     padding: 70px;
